@@ -1,6 +1,47 @@
 body {
-    background-image: url(assets/dog_4_life.jpg);
-    position: relative;
+    background-color: yellow;
+}
+
+#h1-custom {
     text-align: center;
-    padding: 170px 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -230px;
+    font-size: 50px;
+}
+h2 {
+    text-align: center;
+    margin-top: -30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: smaller;
+}
+
+.nav-list {
+    
+    border: 0px;
+    padding: 90px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 350px;
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+main {
+    margin-top: 100px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.image-gallery {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+footer {
+    margin-top: 150px;
 }
