@@ -1,1 +1,9 @@
-document.querySelector("h1").style.background="yellow";
+document.querySelector("p").style.background="yellow";
+
+function addition () {
+    let a = 10;
+    let b = 5;
+    return a + b;
+}
+
+console.log(addition(15));
