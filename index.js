@@ -1,4 +1,4 @@
-document.querySelector("p").style.background="yellow";
+
 
 function addition () {
     let a = 10;

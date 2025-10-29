@@ -1,6 +1,6 @@
 html, body {
     overflow-x: hidden;
-    overflow-y: hidden;
+    
 }
 
 
@@ -36,6 +36,7 @@ html, body {
 
 
 .nav-list {
+    
     
     margin-top: 90px;
     padding: 90px;
