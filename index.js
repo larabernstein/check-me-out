@@ -1,2 +1,1 @@
-alert("hello world")
-console.log("toto");
+document.querySelector("h1").style.background="yellow";
